@@ -1,6 +1,6 @@
 {
-    "name": "binary_tools",
-    "short_name": "binary_tools",
+    "name": "Vinteltool",
+    "short_name": "OptaFX",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
